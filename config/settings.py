@@ -29,7 +29,7 @@ print(SECRET_KEY)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','nocky0875/pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','nocky0875.pythonanywhere.com']
 
 
 # Application definition
